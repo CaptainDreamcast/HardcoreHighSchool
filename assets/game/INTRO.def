@@ -1,0 +1,123 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = " "
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "The year is 2024, the current year, and the year of hardcoreness in the badass calendar."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Deep in the hardcore mountains of Ohio lies a legendary school, that trains young men and women to be real badasses."
+
+[Text 1]
+Speaker = " "
+Text = "That school... is hardcore high school."
+
+[Text 1]
+Speaker = " "
+Text = "The baddest of the bad gather in these hardcore halls."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Delinquents, who all liked the Yakuza games and want to join the Yakuza after school."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = " "
+Text = "Lawyers, but not good lawyers like Phoenix Wright, they are hardcore, they might do flips and stuff."
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = " "
+Text = "And Clowns. They might also do flips and stuff I guess, if the oversized shoes allow it. But mostly they have their little hardcore water spray bottles."
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = " "
+Text = "But of course you know all of that already, after all, this game is about..."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = " "
+Text = "You! The principal of hardcore high school! It's literally you, also when other people play this game."
+
+[Text 1]
+Speaker = " "
+Text = "You know what you do all day, but let me explain your hardcore duties again."
+
+
+
+
+[Text 1]
+Speaker = " "
+Text = "All the baddest kids in school are summoned to your desk, where you either expel them or unexpel them, or summon-back-to-school them, one could say."
+
+[Image 1]
+Group = 1
+Item = 8
+
+[Text 1]
+Speaker = " "
+Text = "However, if you keep to many badasses around, the school might fall apart from all the hardcoreness, so pick wisely. Or hardcorely."
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = " "
+Text = "Of course, other non-hardcore schools are jealous, so they send out strike squads to take down our school. If you expel the strongest badasses, then who is still around to protect the school?"
+
+[Text 1]
+Speaker = " "
+Text = "Please choose wisely, principal. Or again, hardcorely, you know the drill by know."
+
+[Text 1]
+Speaker = " "
+Text = "Such is hardcore life in-"
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = " "
+Text = "Hardcore High School."
+
+
+[Game]

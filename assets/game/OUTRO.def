@@ -1,0 +1,125 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "You, the principal, jump in to fight the evil, yet badass, principal of All-Boys-Badass High, and after a hardcore flip, you defeat the evil principal with a roundhouse kick."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "Everyone is celebrating: The kids, you (as the principal), you (as the player) and you (as the third you watching from the shadows)."
+
+
+
+[Text 1]
+Speaker = " "
+Text = "BUT THEN-!"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "The evil principal pulls out a gun and tries to shoot one of the Hardcore High students-!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "The shot rings out, blood gushes-"
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = " "
+Text = "Out of you, who has protected your student with your own body."
+
+[Text 1]
+Speaker = " "
+Text = "Everyone comes rushing in, they are all yelling 'PRINCIPAL!', even you, the player, rush towards the screen yelling 'Principaaaal!'"
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = " "
+Text = "As you (the real life you) die in your students' arms, you slowly close your eyes and leave them with your final message... 'Always be... hardcore...'"
+
+[Text 1]
+Speaker = " "
+Text = "Yeah, you're actually dead in real life, sorry you had to learn of it like this."
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = " "
+Text = "And the credits roll..."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = " "
+Text = "One month later-"
+
+[Image 1]
+Group = 1
+Item = 8
+
+[Text 1]
+Speaker = " "
+Text = "As the children are playing gang war in the court yard, a familiar hardcore shadow steps out of the school house!"
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = " "
+Text = "It's you! You're actually alive! What a twist!"
+
+[Text 1]
+Speaker = " "
+Text = "And you turn to the camera with your muscular, hardcore face and say:"
+
+[Text 1]
+Speaker = " "
+Text = "Such is harcore life in-"
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = " "
+Text = "HARDCORE HIGH SCHOOL!"
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = " "
+Text = "The end! Thanks for playing!"
+
+[Title]
