@@ -295,14 +295,14 @@ public:
         bool canExpel = false;
         void updateExpelling()
         {
-            if (areSelectableStudentsLoaded && hasPressedRFlank() && canExpel)
+            if (areSelectableStudentsLoaded && hasPressedBFlank() && canExpel)
             {
                 mActiveSelectableStudents.erase(mActiveSelectableStudents.begin() + mSelectedStudentIndex);
                 playExplosionAnimationAtPosition();
                 
                 canExpel = false;
             }
-            if(!hasPressedRFlank())
+            if(!hasPressedBFlank())
             {
                 canExpel = true;
             }
@@ -680,8 +680,8 @@ public:
         FIGHT
     };
 
-    std::shared_ptr<SelectScreen> mSelectScreen;
-    std::shared_ptr<FightScreen> mFightScreen;
+    std::unique_ptr<SelectScreen> mSelectScreen;
+    std::unique_ptr<FightScreen> mFightScreen;
     ActiveSubScreen mActiveScreen;
 
     int mLevel = 0;
@@ -691,8 +691,8 @@ public:
         mAnimations = loadMugenAnimationFile("game/GAME.air");
         mSounds = loadMugenSoundFile("game/GAME.snd");
 
-        mSelectScreen = std::make_shared<SelectScreen>(this);
-        mFightScreen = std::make_shared<FightScreen>(this);
+        mSelectScreen = std::make_unique<SelectScreen>(this);
+        mFightScreen = std::make_unique<FightScreen>(this);
 
         mCardAnimation = addMugenAnimation(getMugenAnimation(&mAnimations, -1), &mSprites, Vector3D(0, 0, 100));
 
